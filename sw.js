@@ -1,5 +1,5 @@
 /* TG Sales Report Generator - service worker (offline support) */
-var CACHE = "tg-reports-v3";
+var CACHE = "tg-reports-v4";
 var ASSETS = [
   "./",
   "./index.html",
